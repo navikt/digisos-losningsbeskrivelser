@@ -1,2 +1,2 @@
 # digisos-losningsbeskrivelser
-# løsningsbeskrivelser for Digisos-løsningene i delbar format.
+""" løsningsbeskrivelser for Digisos-løsningene i delbar format.
