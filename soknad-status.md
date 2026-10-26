@@ -1,3 +1,9 @@
+# Mandat
+Digitalt innsyn gjelder saker om økonomisk sosialhjelp etter sosialtjenesteloven § 18 og 19. De individuelle tjenestene Kvalifiseringsprogram, Midlertidig botilbud jfr § 27, Individuell plan, og Råd og veiledning, er tjenester som ikke er en del av Digisos pt.<br> 
+• Kommunene har ansvar for data som gjøres gjenstand for innsyn via FIKS. 
+Kommunene har ansvar for at alt som sendes av innsynsdata, kan vises til søker<br>
+• Kommunene må definere regler for lagring av persondata hos FIKS, og dermed være tilgjengelig for søker på nav.no. Teknisk sett er det ingen begrensning, men juridisk må det være et formål for datalagring<br>
+
 # Statuser på søknad i innsynsløsningen :tada:
 | Status fra fagsystemet | Status på nav.no | Forklaring |
 | --- | --- | --- |
