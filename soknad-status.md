@@ -1,5 +1,5 @@
 # Statuser på søknad i innsynsløsningen :tada:
-| Status på søknad fra fagsystemet | nav.no (hva innbygger ser) | Forklaring |
+| Status på søknad fra fagsystemet | Status på nav.no | Forklaring |
 | --- | --- | --- |
 | UTKAST | Utkast | Søknaden er ikke sendt fra på nav.no ennå. Søknaden mellomlagres som påbegynt hos Digisos i 14 dager og vises i innsynsløsningen for søker. |
 | SENDT | Sendt | Søknaden er sendt av søker, men er ennå ikke mottatt av kommunen. Normalt vil ikke denne statusen bli sett av søker. Statusen inngår ikke i innsynsdataene som sendes fra fagsystemene, men håndteres av Avdir. Statusen kan vises ved forsinkelser eller feil, for eksempel dersom fagsystemet ikke får lest eller validert søknaden, eller hvis Nav-kontoret ikke kan søke opp eller spore søknaden ved henvendelser fra søker. |
