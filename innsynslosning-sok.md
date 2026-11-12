@@ -1,3 +1,4 @@
+utkast ikke bruk
 | Scenario | Status på søknad nav.no | Hva skal vises til søker | Fagsystemet (FS) avgir opplysninger til nav.no |
 |-----------|-----------|-----------|-----------|
 | Søknad videresendes til et annet Nav-kontor innenfor samme kommune | Mottatt / Under behandling | Informasjon om at søknad og vedlegg er videresendt (ikke antall vedlegg) og hvor. Vises under «Status i søknaden din» (historikken). | Det trigges hendelsene **Tildelt Nav-kontor** og **Mottatt**. Innsynsfil (`digisos-soker.json`) opprettes/oppdateres og sendes til KS Fiks. |
