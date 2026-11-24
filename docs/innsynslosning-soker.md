@@ -1,4 +1,7 @@
-# Scenarioer
+# Innsynsløsning for innbygger - økonomisk sosialhjelp
+
+Denne løsningsbeskrivelsen gjelder den innloggete innbyggertjenesten på nav.no/Minside hvor søker kan følge med på sin egen sak: status i behandlingen, mulighet til å ettersende vedlegg, utfallet i saken, kommende og utførte utbetalinger, samt vilkår fattet i vedtaket. 
+
 
 | Scenario | Status på søknad | nav.no - hva skal vises til søker | Fagsystemet (FS) avgir opplysninger til nav.no |
 |-----------|-----------|-----------|-----------|
