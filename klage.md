@@ -1,0 +1,1 @@
+Løsningbeskrivelse for klage
